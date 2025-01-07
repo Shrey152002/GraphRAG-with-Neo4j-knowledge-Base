@@ -1,4 +1,3 @@
-# GraphRAG-with-Neo4j-knowledge-Base
 # Real-time RAG Pipeline using Neo4j and LangChain
 
 ## Overview
